@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/Ceballos_Resume_FA25.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Ceballos_Resume_FA26.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [eac288@cornell.edu](mailto:eac288@cornell.edu) | | | **Phone:** +1 (915) 280-5460
@@ -13,14 +13,14 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in manufacturing, simulations, and design. Passionate about structural testing and validation, and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Master of Engineering in Materials Science and Engineering*  
-  GPA: x/4.0   | Graduation: December, 2026
+  GPA: 3.4/4.0   | Graduation: December, 2026
 
   *Bachelor of Science in Mechanical Engineering*  
   GPA: 3.5/4.0 | Graduation: May, 2026  
@@ -36,22 +36,28 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS Mechanical, Ansys Fluent 
+- **Software:** Autodesk Inventor, SolidWorks, ANSYS Mechanical, Ansys Fluent, Creo Parametric, MS Office
 - **Programming:** Python, MATLAB  
 - **Tools:** Composites, 3D Printing 
 
 ---
 
 #### Projects
+
+- **<a href="{{ "/projects/cornell-electric-vehicles" | relative_url }}">CFD Analysis of Variable Geometry and Boundary Conditions on Mixed-Cell Raceway (MCR)</a>**: 
+
+
+- **<a href="{{ "/projects/cornell-electric-vehicles" | relative_url }}">Chassis Lead, Cornell Electric Vehicles</a>**:  
+  *[Short Description]*  
+  - Key Achievement 1  
+  - Key Achievement 2
+
 - **<a href="{{ "/wing/" | relative_url }}">Airplane Wing Design</a>**:  
   **  
   - Key Achievement 1  
-  - Key Achievement 2  
+  - Key Achievement 2 
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+
 
 ---
 
@@ -67,6 +73,10 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
   - Collected chemical expenditure data across the Cleans module and compared it to theoretical recipe values to ensure tools were properly calibrated
   - Developed a system to generate pre-dispense expenditure data to quantify material usage 
   - Classified work orders and alarm types across the Cleans module by tool vendor, family, and type for analysis 
+
+- **Racket Service Technician**
+  August, 2023 - Present
+  - Collaborated with small team to string 30+ rackets weekly under pressing and changing timeliens for Cornell's Men's and Women's Varsity team, as well as professional players. 
 
 
 ---

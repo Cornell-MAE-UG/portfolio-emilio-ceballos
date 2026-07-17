@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Emilio Ceballos
 description              : Emilio Ceballos - Projects and CV 
-baseurl                  : "/fa25-portfolio-eac288/" # Set this to your repo name 
+baseurl                  : "/portfolio-emilio-ceballos/" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
