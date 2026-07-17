@@ -36,14 +36,14 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS Mechanical, Ansys Fluent 
 - **Programming:** Python, MATLAB  
 - **Tools:** Composites, 3D Printing 
 
 ---
 
 #### Projects
-- **Airplane Wing Design**:  
+- **<a href="{{ "/wing/" | relative_url }}">Airplane Wing Design</a>**:  
   **  
   - Key Achievement 1  
   - Key Achievement 2  
@@ -56,13 +56,17 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **Caterpillar Inc. - Corporate Intern (manufacturing)**  
+- **Caterpillar Inc. - Corporate Intern (Manufacturing)**  
   May, 2025 - August, 2025  
   - Led Lean Manufacturing cross-functional effort to reduce scraps for compact track loaders, implementing countermeasures among manufacturing and quality engineers as well as operators  
-  - Responsibility 2  
+  - Implemented a vertical holding station for CTL towers, freeing up Automated Guided Vehicles, optimizing flow and reducing injury risk for operators 
+  - Improved fixture safety FMEA rating by designing a “frame stop,” ensuring part will not move during welding 
 
 - **GlobalFoundries - Advanced Module Engineering Intern**  
   June, 2024 - August, 2024  
+  - Collected chemical expenditure data across the Cleans module and compared it to theoretical recipe values to ensure tools were properly calibrated
+  - Developed a system to generate pre-dispense expenditure data to quantify material usage 
+  - Classified work orders and alarm types across the Cleans module by tool vendor, family, and type for analysis 
 
 
 ---

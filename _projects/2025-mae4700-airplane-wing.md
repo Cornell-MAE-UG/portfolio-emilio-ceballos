@@ -4,6 +4,7 @@ title: MAE 4700 Airplane Wing
 description: 
 technologies: [SolidWorks, Machining]
 image: /assets/images/transparent_wing.png
+permalink: /wing/
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MAE 4300 Portfolio Assignment
+title: MAE 4300 Portfolio Assignment for multiple iterations
 description: Boeing’s Shortcomings During the MCAS Crisis and 737 MAX Groundings
 image: /assets/images/grounded_Boeing_737_Max.jpg
 ---
