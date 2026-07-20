@@ -2,13 +2,13 @@
 layout: project
 title: MAE 4700 Airplane Wing
 description: 
-technologies: [SolidWorks, Machining]
+technologies: [Ansys Discovery, Ansys Mechanical]
 image: /assets/images/transparent_wing.png
 permalink: /wing/
 ---
 
+In the class MAE 4700: Finite Element Analysis for Mechanical and Aerospace Design, we learned the improtance of the Finite Element Method in approximating partial differential equations. In most mechanical and aerospace applications, complex designs mut be verified and optimized using simulations that employ the Finite Element Method. Using that standard, this project focuses on optimizing a simplified airplane wing model using FEM through the powerful tools the Ansys Workbench provides, with the ultimate goal of finding the lightest, yet structurally sound geometry. 
 
-In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+The approach to solve this problem was to parametrize various design variables (e.g., skin thickness, number of ribs, placement of the spar(s)) while optimizing the weight and meeting our constraints ($$FOS > 1.5$$ and $$\delta_{max} < 0.375m$$). This study found a wing with two spars and six ribs placed at various locations yielded the best results, achieving a $$FOS > 2.1559$$ and a $$\delta_{max} = 0.37455 m$$, while minimizing the geometric mass by 41.6% compared to the baseline design. 
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
-
+Take a look at the full report [here]({{ "/assets/4700_5700_Final_Project.pdf" | relative_url }}).
