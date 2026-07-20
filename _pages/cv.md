@@ -52,6 +52,10 @@ Aspiring engineering student with a strong foundation in manufacturing, simulati
   - Led a 7-member team in the design and manufacturing of the 2025 Urban Concept vehicle, overseeing carbon-fiber chassis development and structural component production using vacuum infucion and weet layup processes 
   - Conducted FEA structural analysis in Ansys and optimized composite layup schedules, reducing chassis weight by 10% and lowering material costs by over $500 while maintining structural integrity
 
+- **<a href="{{ "/projects/senior_design" | relative_url }}">AeroDry by ApolloTech</a>**:
+  - Conducted Ansys FLUENT simulations to visualize airflow through prototype
+  - Developed physical protoypes from concept to fully-functioning models
+
 - **<a href="{{ "/wing/" | relative_url }}">Airplane Wing Design</a>**:  
   - Developed a system of experiments in Ansys Mechanical, parametrizing multiple design variables to find the lightest, yet structurally sound, airplane wing design
   - Tied a semester of learnings in the FEM to real-world applications

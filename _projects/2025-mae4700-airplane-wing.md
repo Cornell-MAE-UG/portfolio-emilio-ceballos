@@ -11,4 +11,4 @@ In the class **MAE 4700: Finite Element Analysis for Mechanical and Aerospace De
 
 The approach to solve this problem was to parametrize various design variables (e.g., skin thickness, number of ribs, placement of the spar(s)) while optimizing the weight and meeting our constraints ($$FOS > 1.5$$ and $$\delta_{max} < 0.375m$$). This study found a wing with two spars and six ribs placed at various locations yielded the best results, achieving a $$FOS > 2.1559$$ and a $$\delta_{max} = 0.37455 m$$, while minimizing the geometric mass by 41.6% compared to the baseline design. 
 
-Take a look at the full report [here]({{ "/assets/4700_5700_Final_Project.pdf" | relative_url }}).
+My role in this project involved the development of the design of experiments, running countless hours of simulations, linking the mathematical model to our simulation, and data processing. Take a look at the full report [here]({{ "/assets/4700_5700_Final_Project.pdf" | relative_url }}).
