@@ -1,19 +1,13 @@
 ---
 layout: project
-title: MEng. Capstone Project
-description: Holistic project incorporating 
-technologies: [Autodesk Fusion, MATLAB]
-image: /assets/images/uc24render.png
+title: CFD Analysis of a Mixed-Cell Raceway
+description:
+technologies: [Ansys FLUENT, Ansys Discovery]
+image: /assets/images/800iterations_slotshrt30min.png
 ---
 
-In MAE 4272, our team designed, fabricated, and tested a small-scale horizontal-axis wind turbine blade optimized for power generation under a realistic wind environment. The blade was designed around a Weibull-distributed wind profile representative of lab conditions, with the objective of maximizing power extraction while remaining within strict geometric, material, and rotational constraints. The final design used a NACA 4412 airfoil, was limited to a 6-inch span, compatible with a standard hub, and constrained to operate below 2000 RPM without structural failure
+Computational fluid dynamics (CFD) simulations were conducted to investigate particle transport and removal in a commercial-scale mixed-cell raceway (MCR), with emphasis on the relative influence of inlet jet designs. A three-dimensional CFD model of a two-cell MCR was developed, and Lagrangian discrete phase model (DPM) particle tracking was used to evaluate particle removal behavior under multiple configurations. 
 
-![Shaded rendering of earlier version]({{ "/assets/images/wind_blades_printed.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+Two injection desings were evaluated across five total cases within a two-cell segment of a larger commercial-scale MCR. Particle survival functions derived from residence-time distributions were used to quantify removal performance over the first several hydraulic retention times for both jet and surface particle injection modes. 
 
-Our design approach combined blade element theory with an iterative MATLAB-based optimization framework. Using the cubic form of the Weibull distribution, we identified an optimal design wind speed of 4.17 m/s, then selected blade geometry to maintain a near-constant angle of attack along the span. Chord, pitch, and twist distributions were generated across the blade length while enforcing stress limits based on the flexural strength of the Accura 25 material. Structural checks showed the blade experienced stresses well below failure limits at the final operating point of 1100 RPM, ensuring a large factor of safety while preserving aerodynamic performance
-
-![Photo of old radio]({{ "/assets/images/wind_blade_power_curves.png" | relative_url }}){: .inline-image-l}
-
-The fabricated blades were experimentally tested in a wind tunnel using a magnetic particle brake to generate power curves across multiple wind speeds. Data acquisition included wind speed, torque, rotational speed, and mechanical power, allowing us to generate power curves and estimate aerodynamic efficiency. While the blades demonstrated structural integrity across all test conditions, testing revealed unexpected low-RPM behavior below ~1500 RPM, preventing sustained operation at the design point. Despite this limitation, higher wind-speed tests showed increasing efficiency trends and validated the blade’s ability to withstand aerodynamic loading without damage
-
-I led the development of the experimental testing protocol and coordinated wind tunnel testing, including data acquisition setup, calibration, and collection. I also contributed to validating structural safety prior to testing and supported data interpretation during post-processing, particularly when low-RPM behavior was observed.
+To learn more about our research and our findings, you can find our research paper [Computational Fluid Dynamics Analysis of Inlet Jet Angle and Geometry Effects on Particle Removal in a Mixed-Cell Raceway]({{ "/assets/CFD_Capstone_Project.pdf" | relative_url }}).

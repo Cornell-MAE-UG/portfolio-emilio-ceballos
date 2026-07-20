@@ -46,17 +46,15 @@ Aspiring engineering student with a strong foundation in manufacturing, simulati
 
 - **<a href="{{ "/projects/meng-capstone" | relative_url }}">CFD Analysis of Variable Geometry and Boundary Conditions on Mixed-Cell Raceway (MCR)</a>**: 
   - Developed Computational Fluid Dynamics model to understand how different velocity magnitudes and directions along with inlet jet and drain geometries influenced particle behavior within novel aquaculture system
-  - Implemented Discrete Phase Model (DPM) and User-Defined Functions (UDF) to model physics of fish swimming, measuring impact on particle survival time and system efficiency. 
+  - Implemented Discrete Phase Model (DPM) and User-Defined Functions (UDF) to model physics of fish swimming, measuring impact on particle survival time and system efficiency
 
 - **<a href="{{ "/projects/cornell-electric-vehicles" | relative_url }}">Chassis Lead, Cornell Electric Vehicles</a>**:  
-  *[Short Description]*  
   - Led a 7-member team in the design and manufacturing of the 2025 Urban Concept vehicle, overseeing carbon-fiber chassis development and structural component production using vacuum infucion and weet layup processes 
-  - Conducted FEA structural analysis in Ansys and optimized composite layup schedules, reducing chassis weight by 10% and lowering material costs by over $500 while maintining structural integrity. 
+  - Conducted FEA structural analysis in Ansys and optimized composite layup schedules, reducing chassis weight by 10% and lowering material costs by over $500 while maintining structural integrity
 
 - **<a href="{{ "/wing/" | relative_url }}">Airplane Wing Design</a>**:  
-  **  
-  - Key Achievement 1  
-  - Key Achievement 2 
+  - Developed a system of experiments in Ansys Mechanical, parametrizing multiple design variables to find the lightest, yet structurally sound, airplane wing design
+  - Tied a semester of learnings in the FEM to real-world applications
 
 
 

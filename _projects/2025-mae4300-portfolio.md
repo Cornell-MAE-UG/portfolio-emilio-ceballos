@@ -1,9 +1,10 @@
 ---
 layout: project
-title: MAE 4300 Portfolio Assignment for multiple iterations
+title: MAE 4300 Boeing MCAS Assignment
 description: Boeing’s Shortcomings During the MCAS Crisis and 737 MAX Groundings
 image: /assets/images/grounded_Boeing_737_Max.jpg
 ---
+This short essay was part of **MAE 4300: Engineers and Society**, where we explored the roles, responsibilities, and ethical obligations of engineers in contributing to a functional society. The focus of this essay was focused on Boeing's shortcomings during the MCAS crisis and the 737 MAX groundings.
 
 The Boeing 737 MAX crisis revealed profound shortcomings in Boeing’s engineering culture, organizational decision-making, and interaction with regulators, culminating in two fatal crashes and the worldwide grounding of the aircraft. While the Maneuvering Characteristics Augmentation System (MCAS) was intended as a limited software solution to compensate for aerodynamic changes, its flawed implementation exposed deeper systemic failures that extended far beyond a single design error.
 
