@@ -3,7 +3,17 @@ layout: project
 title: Cornell Electric Vehicles - Chassis
 description: Holistic project incorporating 
 technologies: [Autodesk Fusion, MATLAB]
-image: /assets/images/uc24render.png
+image: /assets/images/uc26_comp.jpg
 ---
 
-This page is under maintenance! Come back later for more. 
+The **Chassis Subsystem of Cornell Electric Vehicles (CEV)** must be an aerodynamic, load bearing structure. The chassis is broken into two subsystems: structural and aerodynamic. The structural components are the **baseplate**, which bears the majority of loads, and the **bulkhead**, which also acts as a roll bar. The overall structural subframe of the chassis must bear all loads specified by the Shell Eco-Marathon and the team. The baseplate supports all other mechanical systems. The bulkhead serves as the mounting point for most electronic components, keep the driver safe in case of a rollover, and serve as back support for the driver. 
+
+<figure class="inline-image-caption">
+  <img src="{{ '/assets/images/baseplate-bulkhead.jpg' | relative_url }}" alt="Image of raw baseplate & bulkhead" class="inline-image-c" />
+  <figcaption>The baseplate and bulkhead.</figcaption>
+</figure>
+
+The outer chassis, or "aerodynamic components," are determined based on design and manufacturing best practices, and usually include **doors**, a **rear hatch**, and a **nose**. The aero parts are designed to reduce drag and downforce and optimize weight, thus increasing efficiency and range for our vehicle. 
+
+### Project Overview
+

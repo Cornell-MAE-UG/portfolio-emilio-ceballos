@@ -97,14 +97,16 @@ footer {
   float: left;
   margin: 20px 25px 25px 0;
   width: 150px;
-  vertical-align: top;
+  vertical-align: middle;
 }
 
 .project-image {
-  float: left;
-  margin: 20px 25px 25px 0;
-  max-width: 200px;
-  vertical-align: top;
+  display: block;
+  margin: 20px auto;
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+  vertical-align: middle;
 }
 
 .inline-image {
@@ -123,6 +125,53 @@ footer {
     float: right;
     margin-right: 0;
   }
+
+  &-c {
+    @extend .inline-image;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.inline-image-caption {
+  display: block;
+  text-align: center;
+  margin: 20px auto;
+}
+
+.inline-image-caption figcaption {
+  margin-top: 4px;
+  font-size: 0.9em;
+  color: $text-color;
+  text-align: center;
+  font-style: italic;
+}
+
+.inline-image-caption-right {
+  float: right;
+  margin: 0 0 20px 20px;
+  text-align: center;
+  max-width: 220px;
+}
+
+.inline-image-caption-right img {
+  display: block;
+  margin: 0 auto;
+  float: none;
+}
+
+.inline-image-caption-right figcaption {
+  margin-top: 4px;
+  font-size: 0.9em;
+  color: $text-color;
+  text-align: center;
+  font-style: italic;
+}
+
+.inline-image-caption img,
+.inline-image-caption-right img {
+  margin-bottom: 4px;
 }
 
 .profile-image, .project-image {
@@ -177,11 +226,6 @@ footer {
 
 .gallery-item:hover {
   transform: scale(1.05); 
-}
-
-.project-image {
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .back-arrow {
