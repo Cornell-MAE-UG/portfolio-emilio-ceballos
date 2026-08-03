@@ -15,5 +15,7 @@ The **Chassis Subsystem of Cornell Electric Vehicles (CEV)** must be an aerodyna
 
 The outer chassis, or "aerodynamic components," are determined based on design and manufacturing best practices, and usually include **doors**, a **rear hatch**, and a **nose**. The aero parts are designed to reduce drag and downforce and optimize weight, thus increasing efficiency and range for our vehicle. 
 
-### Project Overview
+The chassis subsystem's design cycle is usually two years long, broken up into a design and manufacturing year. I served as lead during the team's manufacturing cycle, spearheading mold design and manufacture, designing simulation-driven manufacturing plans for our structural and aerodynamic components, and taking care of logistics. Before serving as lead, I was in charge of structural simulations using Ansys Mechanical and Ansys Composite PrepPost (ACP), I designed a mount for the competition's telemetry pod, and was responsible for driver safety. 
+
+
 
